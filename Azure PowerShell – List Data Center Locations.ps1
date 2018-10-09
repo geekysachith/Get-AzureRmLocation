@@ -1,0 +1,1 @@
+Get-AzureRmLocation |Format-Table
